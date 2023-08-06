@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  scroll-behavior: smooth;
+}
+
+.nav-btn {
+  @apply border-b-[#3FE95E] border-b-4;
+}
+
+.sm-acc {
+  @apply rounded-full shadow-md shadow-gray-400 p-3 mx-3 cursor-pointer hover:scale-[115%] duration-300 dark:shadow-sm dark:shadow-gray-300 text-[#3FE95E];
+}
