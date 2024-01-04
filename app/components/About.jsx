@@ -23,7 +23,7 @@ const About = () => {
           <div className="md:grid md:grid-cols-3 gap-10">
             <div className="col-span-1 grid place-items-center my-2 rounded-lg">
               <Image
-                src="/6.jpg"
+                src="/FB-profile.jpg"
                 width={450}
                 height={100}
                 alt="profile-pic"
