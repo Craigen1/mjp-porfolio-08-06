@@ -41,15 +41,15 @@ const Navbar = () => {
     },
     {
       name: "Projects",
-      path: "/",
+      path: "/#projects",
     },
     {
       name: "Skills",
-      path: "/",
+      path: "/#skills",
     },
     {
       name: "Contact",
-      path: "/",
+      path: "/#contact",
     },
   ];
 
